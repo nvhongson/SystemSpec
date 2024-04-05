@@ -1,0 +1,16 @@
+System Specifications
+
+CPU:Intel Core i5-13600K
+Motherboard:ASUS ROG Strix B760-A Gaming Wi-Fi DDR5
+Memory:Corsair Dominator [2x32GB] 5600MHz CL40 DDR5
+Storage: Samsung SSD 870 QVO 2 TB
+	 Samsung SSD 980 PRO 1 TB
+	 Samsung SSD 980 1 TB
+	 SM2P41C8-256GC
+Graphics:ASUS ROG Strix GEForce RTX 3080 OC 10GB
+Cooler:Deepcool AK620 Dual Tower Cooler White
+Case: NZXT H6 Flow ATX Mid Tower
+Fan: 3 x F120 NZXT RGB Fan 120mm White
+     2 x F140 NZXT RGB Duo
+     1 x Lian Li SL120 Uni Fan Infinity
+Power Supply: Corsair RM850x Gold Modular

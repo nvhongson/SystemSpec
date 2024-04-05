@@ -1,0 +1,16 @@
+CPU,https://www.pccasegear.com/products/59517/intel-core-i5-13600k-processor
+Motherboard, https://www.pccasegear.com/products/65093/asus-rog-strix-b760-a-gaming-wifi-ddr5-motherboard
+Memory, https://www.pccasegear.com/products/58347/corsair-dominator-rgb-64gb-2x32gb-5600mhz-cl40-ddr5-white
+Storage, https://www.pccasegear.com/products/50721/samsung-870-qvo-2-5in-sata-ssd-2tb
+	 https://www.pccasegear.com/products/51794/samsung-980-pro-m-2-pci-e-gen4-nvme-ssd-1tb 
+	 https://www.pccasegear.com/products/53554/samsung-980-m-2-pci-e-nvme-ssd-1tb
+Graphics, https://www.pccasegear.com/products/54686/asus-rog-strix-geforce-rtx-3080-oc-lhr-10gb
+Cooler, https://www.pccasegear.com/products/64348/deepcool-ak620-dual-tower-digital-cpu-cooler-white
+Case, https://www.pccasegear.com/products/63837/nzxt-h6-flow-edition-atx-mid-tower-case-white
+Fan, https://www.pccasegear.com/products/61592/nzxt-f120-rgb-fan-120mm-hub-mounted-white-triple-pack
+     https://www.pccasegear.com/products/60293/nzxt-f140-rgb-duo-fan-140mm-pwm-white-twin-pack
+     https://www.pccasegear.com/products/57754/lian-li-sl120-uni-fan-infinity-argb-pwm-120mm-white
+Power Supply, https://www.pccasegear.com/products/55110/corsair-rm850x-gold-modular-850w-power-supply-v2
+
+     
+	 
